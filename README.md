@@ -1,5 +1,12 @@
-Project Demo : https://scintillating-smakager-860376.netlify.app/  
+Congratulations on your win at the Saylani Devathon Summit 1.0! 🏆✨
 
-Project Video : https://www.youtube.com/watch?v=KkQATIXBY5w&ab_channel=GorkCoder
-
-![screencapture-scintillating-smakager-860376-netlify-app-2023-06-18-11_57_15](https://github.com/sunil9813/Education-Website-Using-ReactJS/assets/67497228/37450154-6e7a-45fd-9793-c731dcc56e2b)
+Project: Online Education Platform
+Technologies Used:
+Frontend: HTML, CSS, JavaScript, React.js
+Backend: Node.js, Express.js, MongoDB
+Additional Tools: Git, GitHub, VS Code, Heroku
+Acknowledgments:
+I would like to express my gratitude to the Saylani Welfare International Trust for organizing this impactful event and providing the opportunity to showcase innovative solutions. Special thanks to the judges and mentors for their guidance and support throughout the journey.
+About the Prize:
+Winning this laptop prize is a testament to the dedication and hard work put into developing this project. It serves as motivation to continue creating meaningful solutions that make a difference in the world of technology and education.
+![WINNING PRIZE](./)
